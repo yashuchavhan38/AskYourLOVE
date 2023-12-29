@@ -16,7 +16,7 @@ body {
     margin-bottom: 0px;
 }
 
-.fas fa-gif_container fa-lg {
+.gif_container {
     display: flex;
     justify-content: center;
     align-items: center;
